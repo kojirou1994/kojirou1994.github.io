@@ -4,7 +4,7 @@ title: OS X配置Ruby环境
 date: 2016-02-29 23:33
 author: kojirou
 comments: true
-categories: [未分类]
+categories: [macOS]
 ---
 步骤1 － 安装 RVM
 

@@ -4,7 +4,7 @@ title: 安装Shadowsocks并用Polipo转换成HTTP代理
 date: 2016-05-09 01:56
 author: kojirou
 comments: true
-categories: [未分类]
+categories: [Shadowsocks]
 ---
 <h3>Pip安装</h3>
 

@@ -4,7 +4,7 @@ title: 为常用软件设置代理
 date: 2016-08-12 11:18
 author: kojirou
 comments: true
-categories: [未分类]
+categories: [Shadowsocks]
 ---
 <strong>为ssh设置https代理</strong>
 
